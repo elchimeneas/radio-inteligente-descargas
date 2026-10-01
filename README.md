@@ -4,6 +4,13 @@ Descargas de las ediciones **LSPD** y **LSSD** para Windows 10/11.
 Cada ZIP contiene la aplicación portable, los sonidos y WebView2 local.
 No hace falta instalar Python ni iniciar sesión en GitHub para usarla.
 
+## Publicación 2.2.0-r4
+
+[Descargar LSPD o LSSD](https://github.com/elchimeneas/radio-inteligente-descargas/releases/tag/v2.2.0-r4).
+Esta revisión mejora el contexto de código 4 y limita los avisos repetidos: máximo dos de cada categoría en diez segundos, incluidas radio general y menciones. Los sobrantes no suenan después; los mensajes siguen registrándose. Las categorías distintas tienen contadores independientes. Se mantiene el máximo conjunto de dos sonidos al volver de la pausa.
+
+La versión interna sigue siendo 2.2.0; el paquete y el actualizador identifican la revisión 4. Esta información puede quedar desactualizada: consulta Releases o Ajustes > Actualizaciones para obtener la última entrega de tu agencia.
+
 ## Instalar
 
 1. Abre las [descargas](https://github.com/elchimeneas/radio-inteligente-descargas/releases) y despliega **Assets**.
